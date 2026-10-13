@@ -4,4 +4,5 @@ This is a web application with linear regression ML model in the backend to pred
 
 App is deployed on heroku : https://bstn-price-pred-app.herokuapp.com/
 
-adding a sample change for testing
+
+xyz is working on a sample project on data engineering
